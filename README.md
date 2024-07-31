@@ -1,4 +1,4 @@
-##PRODIGY_ML_02
+## PRODIGY_ML_02
 
 K-means clustering is a popular algorithm used for grouping data into clusters based on similarity. In the context of grouping customers based on their purchase history, the K-means algorithm can help identify distinct customer segments.
 
